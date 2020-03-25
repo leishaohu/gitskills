@@ -17,3 +17,4 @@ git clone git@github.com:leishoahu/gitskills
 
 emacs+magit working stream
 
+what's the difference between magit with git iterm?
