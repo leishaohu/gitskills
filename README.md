@@ -18,3 +18,5 @@ git clone git@github.com:leishoahu/gitskills
 emacs+magit working stream
 
 what's the difference between magit with git iterm?
+
+It's painful to learn new things espacially when there are lots of failures.
