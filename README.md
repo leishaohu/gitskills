@@ -16,4 +16,3 @@ git clone git@github.com:leishoahu/gitskills
 # how to use magit to push
 
 emacs+magit working stream
-
