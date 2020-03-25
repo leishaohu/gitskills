@@ -6,3 +6,14 @@
 learn git further
 
 learn magit and to use it
+
+
+clone from a remote repository just use the command :
+
+git clone git@github.com:leishoahu/gitskills
+
+
+# how to use magit to push
+
+emacs+magit working stream
+
