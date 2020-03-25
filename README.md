@@ -24,8 +24,8 @@ It's painful to learn new things espacially when there are lots of failures.
 # some short key for magit
 
 finally i learned to use magit
-
-|---|--------|
-| P | push   |
-| F | pull   |
-| c | commit |
+| short key | function |
+|-----------|----------|
+| P         | push     |
+| F         | pull     |
+| c         | commit   |
