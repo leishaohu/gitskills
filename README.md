@@ -29,3 +29,6 @@ finally i learned to use magit
 | P         | push     |
 | F         | pull     |
 | c         | commit   |
+
+sdkfdjslfaj
+sdfjlsdkjf
