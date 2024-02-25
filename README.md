@@ -30,5 +30,3 @@ finally i learned to use magit
 | F         | pull     |
 | c         | commit   |
 
-sdkfdjslfaj
-sdfjlsdkjf
